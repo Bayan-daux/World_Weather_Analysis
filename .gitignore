@@ -2,6 +2,7 @@
 config.py
 # Adding random_numbers file.
 random_numbers.ipynb
+install gmaps.ipynb
 
 
 # Byte-compiled / optimized / DLL files
